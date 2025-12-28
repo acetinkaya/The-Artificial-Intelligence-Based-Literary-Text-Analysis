@@ -5,6 +5,7 @@ The Artificial Intelligence Based Literary Text Analysis: A Novel Concept on Emo
 ## Yazarlar / Authors
 
 - **Zehra AYKUT**
+  Şehit Mehmet 
 
 - **Sena Nur BENLİ**
 

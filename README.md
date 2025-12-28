@@ -36,4 +36,5 @@ The Artificial Intelligence Based Literary Text Analysis: A Novel Concept on Emo
 
 ---
 
-Bildiri Yayın 
+Bildiri Yayın Linkleri & Erişim Adresi:
+

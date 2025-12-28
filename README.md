@@ -17,6 +17,7 @@ The Artificial Intelligence Based Literary Text Analysis: A Novel Concept on Emo
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Otonom Sistemler Teknikerliği Programı, İstanbul / Türkiye
 
 - **Şehmuz TURAN**
+  İstanbul Gelişim Üniversitesi, 
 
 - **İzzet YAVUZ**
 

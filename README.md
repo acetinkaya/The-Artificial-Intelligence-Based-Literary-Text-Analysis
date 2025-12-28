@@ -26,4 +26,4 @@ The Artificial Intelligence Based Literary Text Analysis: A Novel Concept on Emo
 İstanbul Gelişim Üniversitesi,
 
 - [**Ercan AYKUT**](https://scholar.google.com/citations?hl=tr&user=RgLwcksAAAAJ)    
-  İstanbul Gelişim Üniversitesi, Mühendislik ve Mimarlık Fakültesi, 
+  İstanbul Gelişim Üniversitesi, Mühendislik ve Mimarlık Fakültesi, Elektrik - Elektronik Mühendisliği Bölümü, 

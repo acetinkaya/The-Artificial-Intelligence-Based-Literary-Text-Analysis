@@ -25,4 +25,5 @@ The Artificial Intelligence Based Literary Text Analysis: A Novel Concept on Emo
 - **Muhammet Cihat MUMCU**   
 İstanbul Gelişim Üniversitesi,
 
-- **Ercan AYKUT**
+- [**Ercan AYKUT**](https://scholar.google.com/citations?hl=tr&user=RgLwcksAAAAJ)    
+

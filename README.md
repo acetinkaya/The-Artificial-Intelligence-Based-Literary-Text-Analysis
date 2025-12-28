@@ -57,7 +57,7 @@ The role of Artificial Intelligence (AI)
 
 ---
 
-Keywords: 
+Keywords: Literary texts,
 
 ---
 

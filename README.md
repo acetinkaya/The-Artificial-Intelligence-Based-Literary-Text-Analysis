@@ -50,5 +50,5 @@ Kongre Yılı: 2025
 
 ---
 
-
+Özet / Abstract
 

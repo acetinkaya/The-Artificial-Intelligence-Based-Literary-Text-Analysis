@@ -4,4 +4,4 @@ The Artificial Intelligence Based Literary Text Analysis: A Novel Concept on Emo
 
 ## Yazarlar / Authors
 
-- [**Ali Çetinkaya**]
+- [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)    

@@ -10,7 +10,7 @@ The Artificial Intelligence Based Literary Text Analysis: A Novel Concept on Emo
 - **Sena Nur BENLİ**   
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu
   
-- **Kübra ERDOĞAN**
+- **Kübra ERDOĞAN**   
   İstanbul Gelişim Üniversitesi,
   
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)    

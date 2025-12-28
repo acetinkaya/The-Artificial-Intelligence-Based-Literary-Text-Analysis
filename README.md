@@ -52,8 +52,14 @@ Kongre Yılı: 2025
 
 Özet / Abstract:
 
-The role of 
+The role of Artificial Intelligence (AI)
 
+
+---
+
+Keywords: 
+
+---
 
 
 

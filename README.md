@@ -5,10 +5,11 @@ The Artificial Intelligence Based Literary Text Analysis: A Novel Concept on Emo
 ## Yazarlar / Authors
 
 - **Zehra AYKUT**   
-  Şehit Mehmet Karaaslan Kız Anadolu İmam Hatip Lisesi, İstanbul / Türkiye
+  Şehit Mehmet Karaaslan Kız Anadolu İmam Hatip Lisesi, İstanbul / Türkiye    
 
-- **Sena Nur BENLİ**
-  İstanbul Gelişim Üniversitesi, 
+- **Sena Nur BENLİ**   
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu
+  
 - **Kübra ERDOĞAN**
 
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)    

@@ -40,5 +40,5 @@ Bildiri Yayın Linkleri & Erişim Adresi:
 
 Kongre İsmi: 9th ICONST 2025 - Kotor International Conferences on Science and Technology
 
-Yayın İsmi: The Artificial Intelligence Based Literary Text Analysis: A Novel Concept on Emotional and 
+Yayın İsmi: The Artificial Intelligence Based Literary Text Analysis: A Novel Concept on Emotional and Conceptual Mapping ction 
 

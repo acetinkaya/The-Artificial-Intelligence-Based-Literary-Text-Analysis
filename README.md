@@ -57,7 +57,7 @@ The role of Artificial Intelligence (AI)
 
 ---
 
-Keywords: Literary texts,
+Keywords: Literary texts, NLP, AI, Emotion analysis
 
 ---
 

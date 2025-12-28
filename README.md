@@ -38,4 +38,4 @@ The Artificial Intelligence Based Literary Text Analysis: A Novel Concept on Emo
 
 Bildiri Yayın Linkleri & Erişim Adresi:
 
-Kongre İsmi: 9th ICONST 2025 - 
+Kongre İsmi: 9th ICONST 2025 - Kotor International 

@@ -46,4 +46,9 @@ ISBN No: 978-625-96612-4-7
 
 Kongre Yılı: 2025
 
+[Kongre İnternet Sayfası](https://iconst.org/)
+
+
+
+
 

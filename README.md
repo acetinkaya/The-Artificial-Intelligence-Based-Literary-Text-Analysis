@@ -48,7 +48,7 @@ Kongre Yılı: 2025
 
 [Kongre İnternet Sayfası](https://iconst.org/)
 
-
+---
 
 
 

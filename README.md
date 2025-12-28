@@ -33,3 +33,5 @@ The Artificial Intelligence Based Literary Text Analysis: A Novel Concept on Emo
 ---
 
 ![AlternatifMetin]
+
+---

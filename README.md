@@ -32,7 +32,7 @@ The Artificial Intelligence Based Literary Text Analysis: A Novel Concept on Emo
 
 ---
 
-![AlternatifMetin]
+![AlternatifMetin](https://github.com/acetinkaya/The-Artificial-Intelligence-Based-Literary-Text-Analysis/blob/main/2025-12-22_21-24-19.png)
 
 ---
 

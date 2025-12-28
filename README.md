@@ -40,4 +40,5 @@ Bildiri Yayın Linkleri & Erişim Adresi:
 
 Kongre İsmi: 9th ICONST 2025 - Kotor International Conferences on Science and Technology
 
-Yayın İsmi: 
+Yayın İsmi: The Artificial Intelligence 
+

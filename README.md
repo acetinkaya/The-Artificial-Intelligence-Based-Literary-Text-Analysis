@@ -8,7 +8,7 @@ The Artificial Intelligence Based Literary Text Analysis: A Novel Concept on Emo
   Şehit Mehmet Karaaslan Kız Anadolu İmam Hatip Lisesi, İstanbul / Türkiye    
 
 - **Sena Nur BENLİ**   
-  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu,  Bilgisayar Teknolojisi Programı
   
 - **Kübra ERDOĞAN**   
   İstanbul Gelişim Üniversitesi,
